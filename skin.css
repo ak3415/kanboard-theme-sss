@@ -169,3 +169,21 @@ border-color: #b6bbbf;
 border-left-width: 5px;
 background-color: white;
 }
+
+td.color-cyan, div.color-cyan{
+border-color: #00bcd4; 
+border-left-width: 5px;
+background-color: white;
+}
+
+td.color-amber, div.color-amber{
+border-color: #ffa000;
+border-left-width: 5px;
+background-color: white;
+}
+
+td.color-light_green, div.color-light_green{
+border-color: #689f38; 
+border-left-width: 5px;
+background-color: white;
+}
